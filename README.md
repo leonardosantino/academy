@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 Dentro da class Main no método inicial main estão as instancias das implementações dos desafios, onde você pode substituir a entrada desses métodos e visualizar os resultados na saída do console do IDE ao executar.
 
-Todos o métodos das implementações dos desafios possuem retorno, por isso são chamados dentro de System.out.println(), para que seja exibido o resultado no console.
+Todos o métodos das implementações dos desafios possuem retorno, por isso são chamados dentro de `System.out.println()`, para que seja exibido o resultado no console.
 
 Comentaríos em linhas no código foram feitos para separar e descrever as 3 questões.
 
@@ -62,10 +62,10 @@ public int findNumberAnagrams(String word)
 
 Os Testes foram implementados utilizando o framework JUnit5 5.8.1 em `src/test/java.com.capgemini/`.
 
-***Class com.capgemini.StairTest***
+***Class StairTest***
 
-***Class com.capgemini.PasswordTest***
+***Class PasswordTest***
 
-***Class com.capgemini.AnagramTest***
+***Class AnagramTest***
 
 Para executar basta entrar na classe de teste e procurar a opção de executar do seu IDE.
