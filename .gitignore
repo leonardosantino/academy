@@ -2,8 +2,3 @@
 
 /shelf/
 /workspace.xml
-
-src/com/capgemini/challenges/**
-src/test/java/com/capgemini/**
-
-README.md

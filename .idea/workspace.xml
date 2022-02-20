@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b37212af-6ac5-4fcd-b6e2-f3f4c54bc409" name="Changes" comment="Add project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/academy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/academy/com/capgemini/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/com/capgemini/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/academy/com/capgemini/challenges/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/academy/com/capgemini/challenges/Anagram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/capgemini/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/capgemini/Main.java" afterDir="false" />
@@ -124,7 +123,7 @@
       <recent name="com.capgemini.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in academy">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.capgemini.Main" />
       <module name="academy" />
@@ -134,25 +133,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in academy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="academy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.capgemini.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.capgemini" />
-      <option name="MAIN_CLASS_NAME" value="com.capgemini.AnagramTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in academy" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in academy" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.AnagramTest" />
       </list>
     </recent_temporary>
   </component>

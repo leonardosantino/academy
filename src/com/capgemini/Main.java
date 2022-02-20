@@ -13,7 +13,7 @@ public class Main {
         System.out.println("# QUESTÃO 01");
         Stair stair = new Stair();
 
-        System.out.println(stair.buildStair(3));
+        System.out.println(stair.buildStair(6));
 
         // # QUESTÃO 02 Construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
         System.out.println("\n# QUESTÃO 02");
@@ -25,6 +25,6 @@ public class Main {
         System.out.println("\n# QUESTÃO 03");
         Anagram anagram = new Anagram();
 
-        System.out.println(anagram.findNumberAnagrams("vovo"));
+        System.out.println(anagram.findNumberAnagrams("ovo"));
     }
 }
